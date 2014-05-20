@@ -1,0 +1,18 @@
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\bin\Debug\sxenextract_gui.exe
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\bin\Debug\sxenextract_gui.pdb
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\sxenextract_gui.MainForm.resources
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\sxenextract_gui.Properties.Resources.resources
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\sxenextract_gui.exe
+C:\Users\Clara\AppData\Local\Temporary Projects\sxenextract_gui\obj\x86\Debug\sxenextract_gui.pdb
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\sxenextract_gui.exe
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\sxenextract_gui.pdb
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\bin\Debug\sxenextract_gui.exe
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\bin\Debug\sxenextract_gui.pdb
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\sxenextract_gui.MainForm.resources
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\sxenextract_gui.Properties.Resources.resources
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\idest_000\SkyDrive\Visual Studio 2010\Projects\sxenextract_gui\sxenextract_gui\obj\x86\Debug\GenerateResource.write.1.tlog
