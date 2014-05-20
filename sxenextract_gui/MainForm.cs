@@ -17,6 +17,7 @@ namespace sxenextract_gui
         {
             InitializeComponent();
 
+            //Use Windows Theme style
             SetWindowTheme(listView_explorer.Handle, "explorer", null);
             SetWindowTheme(treeView_explorer.Handle, "explorer", null);
         }
@@ -80,8 +81,12 @@ namespace sxenextract_gui
                 int version = (fp.ReadByte() << 8) + fp.ReadByte();
                 switch (version)
                 {
-                    case 1: openSXEN_v01(fp); break;
-                    case 2: openSXEN_v02(fp); break;
+                    case 1:
+                        openSXEN_v01(fp);
+                        break;
+                    case 2:
+                        openSXEN_v02(fp);
+                        break;
                 }
                 fp.Close(); //We are done here.
 
@@ -162,10 +167,8 @@ namespace sxenextract_gui
                     seq = Convert.ToInt32((b & (1 << i)) != 0).ToString() + seq;
                 bits = bits + seq;
             } while ((b & (1 << 7)) != 0);
-
             for (int i = 0; i < bits.Length; i++)
                 total += Convert.ToInt32(Math.Pow((double)2, Convert.ToDouble(bits.Length - (i + 1))) * Convert.ToDouble(bits[i] != '0'));
-
             return total;
         }
 
