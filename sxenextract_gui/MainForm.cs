@@ -17,7 +17,6 @@ namespace sxenextract_gui
         {
             InitializeComponent();
 
-            //Use Windows Theme style
             SetWindowTheme(listView_explorer.Handle, "explorer", null);
             SetWindowTheme(treeView_explorer.Handle, "explorer", null);
         }
